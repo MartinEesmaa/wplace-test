@@ -8,4 +8,8 @@ wplace generated image before render | Rendered wplace pixels in a map
 :-------------------------:|:-------------------------:
 ![](poiss-MartinEesmaa.png)  |  ![](poisswp-MartinEesmaa.png)
 
+## Sample screenshot
+
+![](sample.png)
+
 - Martin Eesmaa
